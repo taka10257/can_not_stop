@@ -1,5 +1,15 @@
 # Can't Stop
 
+# タイル数
+|数字|タイル数|
+|---|---|
+|2/12|3|
+|3/11|5|
+|4/10|7|
+|5/9|9|
+|6/8|11|
+|7|13|
+
 # バースト表
  - http://www7a.biglobe.ne.jp/~bluebear/MyBSW/MU_LIST/cantstop/cantstop_ratio.html
 
