@@ -1,5 +1,7 @@
-# can_not_stop
-Can'tStop
+# Can't Stop
+
+# バースト表
+ - http://www7a.biglobe.ne.jp/~bluebear/MyBSW/MU_LIST/cantstop/cantstop_ratio.html
 
 # パターン
 |確率|パターン|50%未満|当選確率|
